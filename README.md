@@ -3,7 +3,7 @@
   <a href="https://github.com/doubty">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=doubty&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doubty&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img align="right" src="https://user-images.githubusercontent.com/30202634/89540902-0da24b80-d7d4-11ea-9614-ccf4bf42dfc6.png" width="300"/>
+  <img align="right" src="https://user-images.githubusercontent.com/30202634/89540902-0da24b80-d7d4-11ea-9614-ccf4bf42dfc6.png" width="250"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Galvs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
