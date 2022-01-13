@@ -1,9 +1,9 @@
 ## Hi, my name is Antônio Galvão or you can just call me by Galvs, and here it's my github ❤
+
 <div align="center">
   <a href="https://github.com/doubty">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=doubty&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doubty&layout=compact&langs_count=7&theme=tokyonight"/>
-  
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Galvs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,11 +21,9 @@
   <img style="margin: 1rem" align="right" src="https://user-images.githubusercontent.com/30202634/89540902-0da24b80-d7d4-11ea-9614-ccf4bf42dfc6.png" width="300"/>
 </div>
   
-  ##
- 
 <div> 
   <a href="https://instagram.com/galvs_santos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/Galvs_Santos" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://discord.gg/Galvs_Santos" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:goantonio80@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/galv%C3%A3o-santos-47b854141/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
