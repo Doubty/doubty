@@ -1,4 +1,4 @@
-## Hi, my name is Antônio Galvão or you can just call me by Galvs, and here it's my github ❤
+## Hello my name is Galvão(Galvs) and welcome to my personal github ❤
 
 <div align="center">
   <a href="https://github.com/doubty">
