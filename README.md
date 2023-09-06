@@ -14,10 +14,14 @@
   <img align="center" alt="Galvs-vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Galvs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Galvs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Galvs-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="Galvs-mateirialUI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg">
   <img align="center" alt="Galvs-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Galvs-tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="Galvs-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="right" alt="Galvs-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/20348065?v=4">
+  <img align="center" alt="Galvs-jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+  <img align="right" alt="
+    Galvs-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/20348065?v=4">
   <img style="margin: 1rem" align="right" src="https://user-images.githubusercontent.com/30202634/89540902-0da24b80-d7d4-11ea-9614-ccf4bf42dfc6.png" width="300"/>
 </div>
    
