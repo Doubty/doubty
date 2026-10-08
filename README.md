@@ -1,56 +1,38 @@
+## Hello, my name is Galvão (Galvs) and welcome to my personal github ❤
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fcee0a,50:ff003c,100:00f0ff&height=200&section=header&text=GALVS&fontSize=80&fontColor=0d0d0d&fontAlignY=40&desc=//%20NIGHT%20CITY%20DEV%20//&descSize=18&descAlignY=65" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=1000&color=FCEE0A&center=true&vCenter=true&width=650&lines=WAKE+UP%2C+SAMURAI...;HELLO%2C+I'M+GALV%C3%83O+(GALVS);FRONT-END+%7C+FULL+STACK+DEVELOPER;WE+HAVE+A+CITY+TO+BURN..." alt="Typing SVG"/>
-
+  <a href="https://github.com/doubty">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=doubty&show_icons=true&card_width=467&line_height=24&bg_color=0d0506&border_color=f0484e&title_color=5ef2ff&text_color=f0484e&icon_color=f5c542"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doubty&layout=compact&langs_count=7&card_width=467&bg_color=0d0506&border_color=f0484e&title_color=5ef2ff&text_color=f0484e"/>
 </div>
-
-<br>
-
-<table align="center">
-  <tr>
-    <td align="center" valign="middle">
-      <img src="https://avatars.githubusercontent.com/u/20348065?v=4" width="170" alt="Galvs"/>
-    </td>
-    <td valign="middle">
-      <h3>⚡ &gt; SYSTEM.BOOT // Galvão "Galvs" Santos</h3>
-      <p>
-        💾 <b>Class:</b> Netrunner / Developer<br>
-        🎯 <b>Mission:</b> Build clean, fast and beautiful interfaces<br>
-        🔧 <b>Cyberware:</b> JavaScript • TypeScript • React • Vue<br>
-        ❤️ <b>Welcome to my personal GitHub</b>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<div align="center">
-
-### `> LOADING_STATS...`
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=doubty&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=0d0d0d&border_color=fcee0a&title_color=fcee0a&text_color=00f0ff&icon_color=ff003c"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doubty&layout=compact&langs_count=7&hide_border=false&bg_color=0d0d0d&border_color=00f0ff&title_color=fcee0a&text_color=00f0ff"/>
-
-### `> CYBERWARE_INSTALLED`
-
-<img src="https://skillicons.dev/icons?i=js,ts,cpp,java,react,vue,html,css,sass,materialui,bootstrap,tailwind,figma,jest&perline=7" />
-
-### `> NETWORK_LINKS`
-
-<a href="https://instagram.com/galvs_santos"><img src="https://img.shields.io/badge/INSTAGRAM-0d0d0d?style=for-the-badge&logo=instagram&logoColor=ff003c&labelColor=0d0d0d&color=ff003c"/></a>
-<a href="https://discord.gg/Galvs_Santos"><img src="https://img.shields.io/badge/DISCORD-0d0d0d?style=for-the-badge&logo=discord&logoColor=00f0ff&color=00f0ff"/></a>
-<a href="mailto:goantonio80@gmail.com"><img src="https://img.shields.io/badge/GMAIL-0d0d0d?style=for-the-badge&logo=gmail&logoColor=fcee0a&color=fcee0a"/></a>
-<a href="https://www.linkedin.com/in/galvao-santos-47b854141/"><img src="https://img.shields.io/badge/LINKEDIN-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00f0ff&color=00f0ff"/></a>
-
-<br><br>
-
-### `> CONTRIBUTION_GRID.EXE`
-
-<img src="https://raw.githubusercontent.com/doubty/doubty/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:ff003c,100:fcee0a&height=100&section=footer" width="100%"/>
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="Galvs-Js" height="30" width="40" src="https://cdn.simpleicons.org/javascript/5ef2ff">
+  <img align="center" alt="Galvs-Ts" height="30" width="40" src="https://cdn.simpleicons.org/typescript/5ef2ff">
+  <img align="center" alt="Galvs-c" height="30" width="40" src="https://cdn.simpleicons.org/cplusplus/5ef2ff">
+  <img align="center" alt="Galvs-java" height="30" width="40" src="https://cdn.simpleicons.org/openjdk/5ef2ff">
+  <img align="center" alt="Galvs-React" height="30" width="40" src="https://cdn.simpleicons.org/react/5ef2ff">
+  <img align="center" alt="Galvs-vue" height="30" width="40" src="https://cdn.simpleicons.org/vuedotjs/5ef2ff">
+  <img align="center" alt="Galvs-HTML" height="30" width="40" src="https://cdn.simpleicons.org/html5/5ef2ff">
+  <img align="center" alt="Galvs-CSS" height="30" width="40" src="https://cdn.simpleicons.org/css/5ef2ff">
+  <img align="center" alt="Galvs-sass" height="30" width="40" src="https://cdn.simpleicons.org/sass/5ef2ff">
+  <img align="center" alt="Galvs-mateirialUI" height="30" width="40" src="https://cdn.simpleicons.org/mui/5ef2ff">
+  <img align="center" alt="Galvs-bootstrap" height="30" width="40" src="https://cdn.simpleicons.org/bootstrap/5ef2ff">
+  <img align="center" alt="Galvs-tailwind" height="30" width="40" src="https://cdn.simpleicons.org/tailwindcss/5ef2ff">
+  <img align="center" alt="Galvs-figma" height="30" width="40" src="https://cdn.simpleicons.org/figma/5ef2ff">
+  <img align="center" alt="Galvs-jest" height="30" width="40" src="https://cdn.simpleicons.org/jest/5ef2ff">
+  <img align="right" alt="
+    Galvs-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/20348065?v=4">
+  <img style="margin: 1rem" align="right" alt="Dev setup" src="https://png.pngtree.com/png-vector/20240309/ourmid/pngtree-developers-are-coding-programs-on-computers-programmers-are-analyzing-data-png-image_11902650.png" width="300"/>
+</div>
+   
+  ##
+  
+<div> 
+  <a href="https://instagram.com/galvs_santos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-f0484e?style=for-the-badge&logo=instagram&logoColor=0d0506" target="_blank"></a>
+  <a href="https://discord.gg/Galvs_Santos" target="_blank"><img src="https://img.shields.io/badge/Discord-5ef2ff?style=for-the-badge&logo=discord&logoColor=0d0506" target="_blank"></a> 
+  <a href = "mailto:goantonio80@gmail.com"><img src="https://img.shields.io/badge/-Gmail-f5c542?style=for-the-badge&logo=gmail&logoColor=0d0506" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/galvao-santos-47b854141/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-f0484e?style=for-the-badge&logo=linkedin&logoColor=0d0506" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/doubty/doubty/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
