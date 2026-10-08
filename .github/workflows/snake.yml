@@ -19,14 +19,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # Snake Animation
       - name: Generate snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: doubty
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#fcee0a&color_dots=#161616,#00f0ff44,#00f0ff88,#00f0ffcc,#00f0ff
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#5ef2ff&color_dots=#170708,#4a1417,#7a1f22,#b3343a,#f0484e
 
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
